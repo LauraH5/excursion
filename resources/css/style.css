@@ -1,0 +1,16 @@
+html {
+  font-family: "Verdana";
+  background-color: black;
+  text-align: center;
+}
+
+#title1 {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+#excursion {
+  color: aquamarine;
+  font-size: 16px;
+}
